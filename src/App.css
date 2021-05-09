@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.main_div {
+    background-color: rgb(0, 0, 20);
+    font-family: 'Roboto', sans-serif;
+}
+
+.child_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+figure {
+    text-align: center;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+}
+
+.text {
+    color: rgb(221, 221, 221);
+    margin-bottom: 12px;
+    letter-spacing: 0.2px;
+    font-weight: lighter;
+}
+
+.icon {
+    padding: 9px;
+    font-size: 12px;
+}
+
+.icon:hover {
+    color: blueviolet;
+}
+.items-box {
+    background-color: #fff;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.input {
+    border: none;
+    padding: 9px 12px;
+    width: 250px;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.input:focus {
+    outline: none;
+}
+
+.each-item {
+    display: flex;
+    width: 280px;
+    padding: 8px;
+    margin: 6px 0;
+    justify-content: space-between;
+    background-color: #fff;
+    border-radius: 3px;
+    background-color: blueviolet;
+    color: #fff;
+}
+
+.each-item h3 {
+    font-weight: 300;
+    font-size: 15px;
+    padding: 0 4px;
+    
+}
+
+.icon-del {
+    font-size: 14px;
+    align-items: center;
+}
+
+.icon-del:hover{
+    color: rgb(223, 121, 121);
+}
+
+.each-item:hover{ 
+    background-color: #fff;
+    color: blueviolet;
+}
+
+.btn {
+    margin: 13px 0;
+    padding: 12px 25px;
+    color: rgb(27, 4, 47);
+    border: none;
+    border-radius: 2px;
+    position: relative;
+    font-size: 14px;
+    
+}
+
+.btn:hover {
+    background-color: blueviolet;
+    color: #fff;
+}
+
+.icon-edit {
+    margin: 0 15px;
+    font-size: 14px;
+}
+
+.icon-edit:hover {
+    color: rgb(30, 199, 30);
+}
+
+.items-box .icon-edit {
+    color: rgb(30, 199, 30);
+}
