@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/awesometo-do/static/css/main.2ff83caf.chunk.css",
+    "main.js": "/awesometo-do/static/js/main.2697416f.chunk.js",
+    "main.js.map": "/awesometo-do/static/js/main.2697416f.chunk.js.map",
+    "runtime-main.js": "/awesometo-do/static/js/runtime-main.a51e419e.js",
+    "runtime-main.js.map": "/awesometo-do/static/js/runtime-main.a51e419e.js.map",
+    "static/js/2.01720bfd.chunk.js": "/awesometo-do/static/js/2.01720bfd.chunk.js",
+    "static/js/2.01720bfd.chunk.js.map": "/awesometo-do/static/js/2.01720bfd.chunk.js.map",
+    "index.html": "/awesometo-do/index.html",
+    "static/css/main.2ff83caf.chunk.css.map": "/awesometo-do/static/css/main.2ff83caf.chunk.css.map",
+    "static/js/2.01720bfd.chunk.js.LICENSE.txt": "/awesometo-do/static/js/2.01720bfd.chunk.js.LICENSE.txt",
+    "static/media/list.02aaf3c9.png": "/awesometo-do/static/media/list.02aaf3c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a51e419e.js",
+    "static/js/2.01720bfd.chunk.js",
+    "static/css/main.2ff83caf.chunk.css",
+    "static/js/main.2697416f.chunk.js"
+  ]
+}
